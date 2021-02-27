@@ -61,7 +61,7 @@ function power_ga_mp($keyword, $title = '(unknown)', $referer = '') {
 
     $version = 1;
     $z = rand(100000000000,999999999999); // Cache Buster  to ensure browsers and proxies don't cache hits
-    $power_ga_mp_GAID = 'UA-33563207-5';
+    $power_ga_mp_GAID = 'UA-107731912-6';
    
   $data = array(
             'v' => $version,
